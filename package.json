@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@aave/core-v3": "^1.18.0",
+    "@alch/alchemy-web3": "^1.4.7",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^4.8.2",
+    "dotenv": "^16.3.1"
+  }
+}
